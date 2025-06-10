@@ -1,4 +1,4 @@
-[![GitHub Repo stars](https://img.shields.io/github/stars/eevan7a9/real-estate-management?style=social)](https://github.com/eevan7a9/real-estate-management/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/amalek/real-estate-management?style=social)](https://github.com/amalek/real-estate-management/stargazers)
 [![License](https://img.shields.io/badge/License-Apache_License_2.0-blue.svg)](LICENSE)
 
 
