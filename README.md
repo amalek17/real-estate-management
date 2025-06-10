@@ -12,7 +12,7 @@ Designed for managing residential, commercial, and land properties the app allow
 
 🚧 **backend-fastify/** work in progress 🚧.
 
-### **[LIVE WEB PREVIEW](https://real-estate-management.netlify.app/)**
+### **[LIVE WEB PREVIEW](http://localhost:4200)**
 
 # 🎨 Themes
 ## 📱 Android (Pixel 7)
