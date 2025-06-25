@@ -1,8 +1,6 @@
-[![GitHub Repo stars](https://img.shields.io/github/stars/amalek/real-estate-management?style=social)](https://github.com/amalek/real-estate-management/stargazers)
-[![License](https://img.shields.io/badge/License-Apache_License_2.0-blue.svg)](LICENSE)
 
 
-# real-estate-management
+### real-estate-management
 
 A web and mobile property management solution built with Ionic, Angular and Nodejs Fastify.
 Designed for managing residential, commercial, and land properties the app allows users to explore available estates via an interactive map and directly send inquiries to property owners.
