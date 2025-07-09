@@ -10,7 +10,7 @@ Designed for managing residential, commercial, and land properties the app allow
 
 🚧 **backend-fastify/** work in progress 🚧.
 
-### **[LIVE WEB PREVIEW](http://localhost:4200)**
+### **[LIVE WEB PREVIEW](https://3ghg6fd0-4200.inc1.devtunnels.ms/map)**
 
 # 🎨 Themes
 ## 📱 Android (Pixel 7)
